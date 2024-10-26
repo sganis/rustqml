@@ -1,0 +1,9 @@
+[package]
+name = "rustqml"
+version = "0.1.0"
+edition = "2018"
+authors = ["SAG"]
+
+[dependencies]
+qmetaobject = "0.2"
+cstr = "0.2"
